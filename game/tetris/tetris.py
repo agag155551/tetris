@@ -1,6 +1,6 @@
 import pygame
 import random
-
+#123123123
 #배경 크기
 GRID_WIDTH = 10
 GRID_HEIGHT = 20
